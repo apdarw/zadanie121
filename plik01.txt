@@ -1,2 +1,3 @@
 Pierwsza linia pliku. Autor: Jacek Diakun (osoba1)
 Druga linia pliku. Autor: Adrian Pawłowski (osoba2)
+Trzecia linia pliku. Autor: jw
